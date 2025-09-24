@@ -1,3 +1,15 @@
+#Requisitos
+#1- Cadastro de Cliente
+#2- Disponibilidade de horário e data
+#3- Agendamento de serviço
+#4- Tipos de serviços
+#5- Confirmação de agendamento
+#6- Confirmação de Presença
+#7- Notificação para o cliente de horário disponível, após o cancelamento de agendamento
+#8- Cadastro de Barbeiro
+#9- Visualização de Agendamentos feitos
+#10- Acompanhamento de faturamento
+
 import datetime
 
 SERVICOS = {
@@ -153,4 +165,5 @@ def rodar_aplicativo():
 
 
 if __name__ == "__main__":
+
     rodar_aplicativo()
