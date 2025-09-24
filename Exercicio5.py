@@ -9,7 +9,6 @@
 #8- Cadastro de Barbeiro
 #9- Visualização de Agendamentos feitos
 #10- Acompanhamento de faturamento
-
 import datetime
 
 SERVICOS = {
@@ -167,3 +166,4 @@ def rodar_aplicativo():
 if __name__ == "__main__":
 
     rodar_aplicativo()
+
